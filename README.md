@@ -1,0 +1,2 @@
+# hospital-inventory-frontend
+
